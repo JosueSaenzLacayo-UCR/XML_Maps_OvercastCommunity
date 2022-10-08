@@ -254,7 +254,7 @@
     <item>tnt</item> 
     <item>iron barding</item>
     <item>gold barding</item>
-    <item>potions</item>
+    <item>potion</item>
 </itemremove>
 <tnt>
     <instantignite>on</instantignite>
