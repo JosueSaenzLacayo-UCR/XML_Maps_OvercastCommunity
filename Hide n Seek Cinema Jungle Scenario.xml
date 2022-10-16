@@ -8,6 +8,9 @@
     <author uuid="41b50c44-30f1-473b-96d2-d6305765cbd9" contribution="Map Additions" /> <!-- Fox98cr -->
     <author uuid="065c76d6-32b8-4b3a-8270-db350f876844" /> <!-- Put0veda -->
 </authors>
+<contributors>
+    <contributor uuid="9d4779a8-d35f-45d2-b51c-95de7a77e128" contribution="Tester/Feedback" /> <!-- Zzuf -->
+</contributors>
 <broadcasts>
     <alert after="1s">The seekers will be released after 30 seconds!</alert>
     <alert after="30s">The seekers have been released!</alert>
