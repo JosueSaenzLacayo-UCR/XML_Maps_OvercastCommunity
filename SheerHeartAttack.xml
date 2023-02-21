@@ -8,8 +8,9 @@
     <author uuid="065c76d6-32b8-4b3a-8270-db350f876844"/> <!-- GatitoConSueter -->
 </authors>
 <contributors>
-    <contributo uuid="9d4779a8-d35f-45d2-b51c-95de7a77e128" contribution="XML rewrite"/> <!-- zzuf -->
-    <contributo uuid="3a3f756e-7925-409a-be5e-e8c1694b3e2c" contribution="Increased morale in the team."/>
+    <contributor uuid="9d4779a8-d35f-45d2-b51c-95de7a77e128" contribution="XML rewrite"/> <!-- zzuf -->
+    <contributor uuid="3a3f756e-7925-409a-be5e-e8c1694b3e2c" contribution="Increased morale in the team."/>
+    <contributor uuid="6863869b-4b8c-4445-b778-a8e016775ae4" contribution="Map tester and XML checker"/>
 </contributors>
 <broadcasts>
     <alert after="2s" every="4m">Destroy the enemy's `cStained Glass`r and `cWool`r heart!</alert>
