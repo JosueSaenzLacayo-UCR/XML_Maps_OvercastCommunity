@@ -13,7 +13,7 @@
     <contributor uuid="6863869b-4b8c-4445-b778-a8e016775ae4" contribution="Map tester and XML checker"/>
 </contributors>
 <broadcasts>
-    <alert after="2s" every="4m">Destroy the enemy's `cStained Glass`r and `cWool`r heart!</alert>
+    <alert after="2s" every="4m">Destroy the enemy's `cWool`r heart!</alert>
     <alert after="2s" every="6m">If you drop something important from your inventory you can use /leave and rejoin to get your original inventory back</alert>
 </broadcasts>
 <teams>
