@@ -101,7 +101,7 @@
     <team id="only-red">red</team>
     <team id="only-blue">blue</team>
 </filters>
-<destroyables name="Heart" show-progress="true" completion="50%" materials="wool:14;stained glass:14" repair="false">
+<destroyables name="Heart" show-progress="true" completion="50%" materials="wool:14" repair="false">
     <destroyable owner="blue">
         <region>
             <cuboid min="-21,87,-138" max="-45,119,-158"/>
