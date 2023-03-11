@@ -1,6 +1,7 @@
 <map proto="1.4.2">
 <name>War for Iacon</name>
 <version>1.0.0</version>
+<phase>development</phase>
 <objective>Be the first team to reach 750 points!</objective>
 <gamemode>koth</gamemode>
 <authors>
@@ -70,26 +71,26 @@
 <control-points required="false" capture-time="5s" points="1" time-multiplier="0" show-progress="true" neutral-state="true" incremental="true" permanent="false">
     <control-point name="Point A">
         <capture-region>
-            <cuboid min="-184,16,-12" max="-179,21,-17"/>
+            <cuboid min="-183,16,-12" max="-179,21,-16"/>
         </capture-region>
         <progress-display-region>
-            <cuboid min="-193,16,-2" max="-169,24,-23"/>
+            <cuboid min="-179,16,-12" max="-184,17,-17"/>
         </progress-display-region>
     </control-point>
     <control-point name="Point B">
         <capture-region>
-            <cuboid min="-179,16,70" max="-184,22,76"/>
+            <cuboid min="-179,16,71" max="-183,22,76"/>
         </capture-region>
         <progress-display-region>
-            <cuboid min="-172,16,63" max="-189,29,82"/>
+            <cuboid min="-184,16,70" max="-179,17,76"/>
         </progress-display-region>
     </control-point>
     <control-point name="Point C">
         <capture-region>
-            <cuboid min="-184,10,33" max="-179,14,38"/>
+            <cuboid min="-183,10,34" max="-179,14,38"/>
         </capture-region>
         <progress-display-region>
-            <cuboid min="-184,10,33" max="-179,11,38"/>
+            <cuboid min="-183,10,34" max="-179,11,38"/>
         </progress-display-region>
     </control-point>
 </control-points>
